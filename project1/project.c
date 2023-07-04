@@ -74,4 +74,5 @@ int main(){
     
     printf("New image saved to %s\n", save_path);
     printf("New image saved to %s\n", final_result);
+    printf("New image saved to %s\n", final_result);
 }
